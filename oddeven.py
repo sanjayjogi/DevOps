@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1CIz6lFpT8OW0Tpf9PW7BZC1I3Rjyl2x-
 """
 
-num = int(input("Enter any number to test whether it is odd or even: "))
+num = input("Enter any number to test whether it is odd or even: ")
 
 if (num % 2) == 0:
   print ("The number is even")
